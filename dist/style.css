@@ -1,20 +1,21 @@
 .header-text {
-  margin: 40px;
-  text-shadow: 8px 3px 10px rgb(8, 8, 8);
-}
-
-.card,
-.list-group {
-  box-shadow: 5px 5px 15px black;
-}
-
-h2,
-p {
-  text-shadow: 2px 2px 20px rgb(8, 8, 8);
-}
-
-span {
-  padding-right: 15px;
-}
-
-
+    margin: 40px;
+    text-shadow: 8px 3px 10px rgb(8, 8, 8);
+  }
+  
+  .card,
+  .list-group {
+    box-shadow: 5px 5px 15px black;
+  }
+  
+  h2,
+  p {
+    text-shadow: 2px 2px 20px rgb(8, 8, 8);
+  }
+  
+  span {
+    padding-right: 15px;
+  }
+  
+  
+  
