@@ -45,7 +45,7 @@ class GeneratePage {
                         <div class="row d-flex justify-content-center align-items-center gy-4">
                             ${this.data.map((employeeData) => {
                                 return `
-                                <div class="col-1" style="width: 18rem;">
+                                <div class="col-1" style="width: 19rem;">
                                     <div class="card bg-secondary">
                                         <div class="card-body bg-primary text-white">
                                             <h2>${employeeData.getName()}</h2>
@@ -54,7 +54,7 @@ class GeneratePage {
                                         <div class="card-body">
                                             <ul class="list-group list-group-flush my-4">
                                                 <li class="list-group-item" >ID: ${employeeData.getId()}</li>
-                                                <li class="list-group-item"><a href= "mailto:${employeeData.getEmail()}">Email: ${employeeData.getEmail()}</a></li>
+                                                <li class="list-group-item"><a href= "mailto:${employeeData.getEmail()}">Email:<br> ${employeeData.getEmail()}</a></li>
                                                 <li class="list-group-item">${employeeData.getOfficeNumber ? `Office Number: ${employeeData.getOfficeNumber()}` : employeeData.getGitHub ? `<a href = "https://github.com/${employeeData.getGitHub()}" target="_blank">GitHub: ${employeeData.getGitHub()} </a>` : `School: ${employeeData.getSchool()}`}</li>
                                             </ul>
                                         </div>
