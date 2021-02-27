@@ -1,5 +1,5 @@
 # Team Building Generator 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  !['alt text'](https://img.shields.io/badge/JavaScript-100%25-blue)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  !['alt text'](https://img.shields.io/badge/JavaScript-97.6%25-blue) !['alt text'](https://img.shields.io/badge/CSS-2.4%25-blueviolet)
   # Table of Contents 
   
   * [Description](#description)
@@ -26,11 +26,11 @@
   Link to GitHub Repository: https://github.com/lewisoutdoorllc/team-building-generator
   
   Using your command line navigate to the cloned folder and start off by running the command “npm install”.  
-  Once installed run “node index” to initialize the start of the Generator and follow prompts to complete your Custom README.
+  Once installed run “node index” to initialize the start of the Generator and follow prompts to complete your team.
   
   # Technology
   
-  !['alt text'](https://img.shields.io/badge/JavaScript-100%25-blue)
+  !['alt text'](https://img.shields.io/badge/JavaScript-97.6%25-blue) !['alt text'](https://img.shields.io/badge/CSS-2.4%25-blueviolet)
 
   ### " NPM Inquirer "
   ### " NPM Jest " 
